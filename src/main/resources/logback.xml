@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
 	<property name="HOME_LOG"
-		value="C:\\Users\\hrikalit\\Downloads\\customer\\customer-supermarket-app\\log\\log.html" />
+		value="D:\\Users\\kalparna\\Documents\\Customer-mangement-repo (BDD)\\customer-management-repo\\customer-supermarket-app\\log\\log.html" />
 
 <!-- value="C:\\Users\\Kumar Mapanip\\asde-workspace\\customer-supermarket-app\\log\\ofd.html" /> -->
 
